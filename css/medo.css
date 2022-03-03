@@ -100,7 +100,7 @@ header {}
     position: relative;
 }
 
-.container .info #me {
+.container .info .me {
     position: initial;
     line-height: 1.5;
     margin-top: 29px;

@@ -83,7 +83,7 @@ header {}
 .container .info p {
     width: fit-content;
     position: relative;
-    left: 70px;
+    left:70px;
     color: #c1c5c8;
     margin-top: 5px;
 }

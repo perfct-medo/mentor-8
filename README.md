@@ -7,7 +7,7 @@
 Thanks for checking out this front-end coding challenge.
 
 
-demo :
+demo :(https://perfct-medo.github.io/mentor-8)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
